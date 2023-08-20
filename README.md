@@ -10,3 +10,6 @@ function
 1. Automatically Remove YouTube Ads
 2. Download video
 
+
+If there is a problem, the file will be removed.
+
